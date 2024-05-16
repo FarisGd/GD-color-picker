@@ -1,2 +1,2 @@
 # GD-color-picker
-A program to get rgb and hex values from a selected color (also the hsv not working if u know how to fix it I would appreciate it lol)
+A simple program made in Python built-in Tkinter gui module to get rgb and hex values from a selected color
